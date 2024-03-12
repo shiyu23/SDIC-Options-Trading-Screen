@@ -1,4 +1,3 @@
-### Options-Trading-Screen
 ### 行情监控屏
 
 ### 综合屏效果图
